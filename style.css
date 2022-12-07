@@ -292,6 +292,7 @@ main #main_section1 .item6 {
   background-color: #f8f9fa;
   width: 100%;
   height: 80vh;
+  padding-bottom: 10vh;
 }
 #section2 h2 {
   width: 30vw;
@@ -317,7 +318,7 @@ main #main_section1 .item6 {
   grid-column: 1 span 2;
   object-fit: cover;
   width: 100%;
-  height: 50vh;
+  height: 55vh;
   overflow: hidden;
 }
 /******* section3 3행 3열 7아이템********/
